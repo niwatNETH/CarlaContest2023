@@ -11,4 +11,4 @@
 2. Run agent by execute `run_agent.bat`
 
 ## Guide for development phase
-- PyCharmDevelopmentGuide.pptx
+- PyCharmDevelopmentGuide.pdf
